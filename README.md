@@ -24,7 +24,7 @@
 
 ## 部署与启动
 
-1. 下载项目：GitHub 页面 **Code → Download ZIP**，或 `git clone https://github.com/Li-yisuan/sealdice-inheritor.git`；
+1. 下载项目：GitHub 页面 **Code → Download ZIP**，或 `git clone https://github.com/AcOH-Li/sealdice-inheritor.git`；
 2. 解压到固定目录，例如 Windows `D:\sealdice-inheritor`、Linux `~/sealdice-inheritor`；
 3. 备份 `data.db` 和 `data-logs.db`；
 4. 在项目目录打开终端，执行：

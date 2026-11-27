@@ -5,8 +5,8 @@
 // @description  旧 QQ 数据迁到官方 OpenID：邮箱验证后迁角色卡；群映射需管理权限并顺带迁日志
 // @timestamp    2026-11-28
 // @license      MIT
-// @homepageURL  https://github.com/Li-yisuan/sealdice-inheritor
-// @updateUrl    https://raw.githubusercontent.com/Li-yisuan/sealdice-inheritor/main/plugin/sealdice-inheritor.js
+// @homepageURL  https://github.com/AcOH-Li/sealdice-inheritor
+// @updateUrl    https://raw.githubusercontent.com/AcOH-Li/sealdice-inheritor/main/plugin/sealdice-inheritor.js
 // @sealVersion  >=1.6.0
 // ==/UserScript==
 
