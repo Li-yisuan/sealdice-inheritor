@@ -1,0 +1,19 @@
+{
+  "name": "sealdice-inheritor",
+  "version": "1.0.0",
+  "description": "SealDice 旧接入数据迁移：角色卡、群内属性、玩家档案与日志迁移到官方接入",
+  "type": "module",
+  "engines": {
+    "node": ">=22.5.0"
+  },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning src/cli.mjs serve",
+    "inspect": "node --disable-warning=ExperimentalWarning src/cli.mjs inspect"
+  },
+  "keywords": [
+    "sealdice",
+    "qq-bot",
+    "migration"
+  ],
+  "license": "MIT"
+}
